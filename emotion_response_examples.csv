@@ -1,0 +1,97 @@
+field,problem,emotion,confidence,response,timestamp
+Computer Science,i know additions,Bored,29.219850897789,"It sounds like you're feeling a bit bored right now. That's a common feeling when you know the basics and want something new.
+
+In Computer Science, it's really helpful to take what you know, like additions, and apply it to a small project. This makes learning fun and practical.
+
+A good next step could be to try building a very basic calculator program. This will use additions in a real way. You can find many simple guides online to help you start.
+
+You're doing great by wanting to learn more and pushing past the basics. Keep exploring!",2026-07-10T15:45:05.956787
+Computer Science,i know additions,Bored,29.219850897789,"Hey there! I hear you're feeling a bit bored right now, even though you've got additions down. That's totally understandable sometimes.
+
+In Computer Science, even simple things like addition are really important building blocks. A great study tip is to try and use what you know in a tiny project. For example, think about how addition could be used to keep score in a simple game you design.
+
+For your next step, how about trying to write a small piece of code that asks you for two numbers, adds them together, and then shows you the total? This takes your basic knowledge and makes it interactive.
+
+You're doing great by mastering the basics. Keep going, there's so much more fun stuff to discover in Computer Science!",2026-07-10T15:45:37.396834
+Computer Science,I don't understand recursion. Every time I solve a problem I get confused.,Confused,61.61670684814453,"I understand you're feeling confused about recursion. It's a concept that many computer science students find tricky at first, so you're definitely not alone!
+
+A great field-specific tip for recursion is to always trace the execution of a simple recursive function on paper. Don't try to solve complex problems in your head. Write down each function call, its inputs, and what it returns.
+
+For your next step, pick a very simple recursive problem, like calculating the factorial of a small number (e.g., 3! or 4!). Draw out every single function call, what happens in each call, and when the 'base case' (the stopping condition) is reached. Focus on understanding this one simple example completely before moving on.
+
+Recursion often 'clicks' after enough practice and seeing enough examples. Don't get discouraged! Keep working at it, and you will absolutely grasp it.",2026-07-10T15:49:10.213627
+Computer Science,I don't understand recursion. Every time I solve a problem I get confused.,Confused,61.61670684814453,"It's completely normal to feel confused about recursion. Many computer science students struggle with it at first, so don't feel bad about it at all!
+
+Here's a field-specific study tip: When you look at a recursive problem, focus on two key things. First, find the ""base case"" – this is the condition where the function stops calling itself and gives a direct answer. Second, find the ""recursive step"" – this is where the function calls itself, but with a slightly simpler or smaller version of the problem. Don't try to trace every single step in your head at first; just trust that the recursive call will correctly solve the smaller problem.
+
+For your next step, pick a very simple recursive problem, like calculating a factorial (for example, 5! = 5 * 4 * 3 * 2 * 1). Try to write out the code and then manually trace what happens when you calculate 3! (3 factorial) on a piece of paper. This hands-on tracing for a tiny problem can really help.
+
+You've got this! Learning recursion is like learning a new way of thinking, and it takes time and practice. Keep at it, and it will click for you.",2026-07-10T15:51:52.276394
+Computer Science,i don't like recursions,Bored,33.30896496772766,"It's completely okay to feel bored or frustrated with recursion. Many people find it a tricky concept at first!
+
+Try this: Take a very simple recursive function, like calculating a factorial. On a piece of paper, draw out each step and what values the variables have. Imagine a stack of boxes, one for each call to the function. This helps you see how it works from the inside.
+
+For your next step, find an animated video online that visually explains a simple recursive problem. Sometimes seeing it move helps it make more sense.
+
+Don't worry, recursion often ""clicks"" after a bit of practice. You'll get there!",2026-07-10T16:44:15.086070
+Computer Science,i don't like english,Bored,32.97331631183624,"It sounds like you're feeling pretty bored with English, and it's clear you're not a fan of the subject right now. That's a common feeling for many students, especially when their passion lies elsewhere, like in Computer Science.
+
+Even in Computer Science, English is super useful for reading instructions, writing clear notes for your code, and explaining your ideas to others. Try to see it as a tool for your main subject, like learning to read a new programming language's documentation.
+
+For a next step, pick a small piece of code you've written and try to explain what it does in simple, clear English, as if you're teaching it to a friend who doesn't know anything about code. This helps you practice useful English for CS.
+
+It's totally fine not to love every class. You're probably amazing at Computer Science, and using English to make your CS work shine will be a big help in your future career. Keep going, you've got this!",2026-07-10T17:03:10.340632
+Computer Science,i   like  marvel,Bored,34.71171259880066,"It sounds like you're feeling a bit bored with your studies right now.
+
+In Computer Science, try to connect what you're learning to things you enjoy. For example, think about how computers help make amazing Marvel movies, games, or even your favorite streaming services work. This can make the material more interesting.
+
+Maybe spend 10 minutes looking up 'how special effects are made with computers' or 'game development tools'. Just for fun, no pressure.
+
+It's normal to feel bored sometimes, but finding connections to your interests can really help. You've got this!",2026-07-10T17:38:42.871778
+Computer Science,"thor is my favourite marvel character
+",Bored,33.94904434680939,"It sounds like you're feeling a bit bored right now, and thinking about your favorite characters like Thor! That's totally normal.
+
+In Computer Science, sometimes it helps to try building a small project related to something you enjoy. For example, could you try coding a simple text-based game or a little program that tells you fun facts about your favorite Marvel characters? Making it personal can make it more interesting.
+
+As a next step, take a quick 5-minute break. Stretch, get a drink of water, or even watch a short clip of Thor. Then, come back and pick just one tiny concept from your studies and try to explain it out loud to yourself.
+
+You've got this! It's okay to feel bored sometimes, but remember that every little bit of effort you put in now will help you later. Keep going!",2026-07-10T17:39:43.075451
+Computer Science,i dont like to solve question papers,Confused,47.36233353614807,"I understand that you don't enjoy solving question papers. It's totally okay to feel that way; many students find them tough or not very fun.
+
+Here's a tip for Computer Science: Instead of just solving whole papers, try to focus on building small projects or working on coding challenges. This lets you apply what you learn directly and see it work, which can be more engaging and practical for CS.
+
+For your next step, maybe pick just one concept from a past paper, like ""how to use a specific type of loop"" or ""what a certain data structure does."" Then, try to write a very tiny program related to just that one concept. Don't worry about doing a full paper.
+
+Keep trying! Every little bit of practice helps you get better. You're on the right track by trying to find what works best for your learning style.",2026-07-10T17:41:26.405705
+Computer Science,i am groot,Bored,32.003945112228394,"It sounds like you're feeling bored right now, and that's okay. Everyone feels that way sometimes, especially when studying.
+
+For Computer Science, try to build something small, even if it's just a tiny program. Writing code yourself can make learning much more interesting than just reading or watching.
+
+Why not try to code a very simple program right now? Maybe one that asks for your favorite animal and prints a fun message using it.
+
+You've got this! Taking small steps and trying new approaches can really help when boredom strikes.",2026-07-10T17:42:10.845270
+Computer Science,i am interested in dynamic programming,Bored,28.85892689228058,"It sounds like you're feeling a bit bored right now, even with your interest in dynamic programming.
+
+For dynamic programming, a good tip is to always try to draw out a few small examples on paper first. This helps you see the patterns and how the larger problem can be broken into smaller, repeating parts.
+
+As a next step, try solving the classic Fibonacci sequence problem using dynamic programming. It's a perfect way to start understanding the concept.
+
+Keep exploring and practicing! You're on your way to understanding it better.",2026-07-10T18:00:15.464882
+Computer Science,i hate maths,Frustrated,63.32095265388489,"Hey there! It sounds like you're feeling really frustrated and maybe even a bit angry about maths right now. That's a very common feeling, especially for computer science students.
+
+Here's a tip: Try to connect the math you're learning to actual computer science problems or code. Seeing how it's used in algorithms, data structures, or even game development can sometimes make it click better.
+
+For your next step, pick just one math topic you're currently studying. Then, try to find a simple example online or in your textbook of how that specific math concept is used in a real computer science application.
+
+You can definitely get through this! Many successful computer scientists struggled with math at first, but they found their way by seeing its purpose. Keep going!",2026-07-10T18:15:17.072073
+Computer Science,I don't understand recursion.,Confused,52.04928517341614,"It's totally okay to feel confused about recursion; many Computer Science students find it tricky at first!
+
+A great field-specific study tip is to try and visualize what's happening. Imagine your function as a little person. When it calls itself, it's like that person hands a smaller version of the problem to a new, identical person, and waits for their answer. Draw these 'people' or 'function calls' out on paper, stacking them up.
+
+For your next step, pick a very simple recursive problem, like calculating the factorial of a number (e.g., 5! = 5 * 4 * 3 * 2 * 1). Then, literally write down on paper every step and every value, like you're playing detective, tracing what happens when the function calls itself until it hits the base case.
+
+Don't give up! Recursion often just 'clicks' after seeing a few examples and practicing. You've got this!",2026-07-10T18:33:20.466949
+Computer Science,i   am    very   busy,Bored,37.960419058799744,"Learning doesn't have to be boring. Let's make it more engaging with visual explanations, coding exercises, quizzes, or interactive examples.",2026-07-10T18:40:22.030598
+Computer Science,maths is very  easy,Bored,28.30342650413513,"Learning doesn't have to be boring. Let's make it more engaging with visual explanations, coding exercises, quizzes, or interactive examples.",2026-07-10T18:41:54.847879
+Computer Science,I don't understand recursion.,Confused,52.04928517341614,I can see you're feeling confused. Don't worry—many students experience this when learning something new. Let's break the topic into smaller parts and understand it one step at a time.,2026-07-10T18:49:18.654650
+Computer Science,i dont know how to walk,Confused,51.19606852531433,I can see you're feeling confused. Don't worry—many students experience this when learning something new. Let's break the topic into smaller parts and understand it one step at a time.,2026-07-10T18:52:08.443912
